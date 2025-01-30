@@ -1,9 +1,4 @@
 # Spiking-Neural-Network-Simulation-for-Pattern-Recognition
-# Creating a README.md file with the provided content
-
-readme_content = """
-# Spiking Neural Network (SNN) for Fashion-MNIST
-
 This repository implements a Spiking Neural Network (SNN) trained on the **Fashion-MNIST** dataset, which consists of 28x28 grayscale images of clothing items. The code uses **Brian2**, a Python library for simulating spiking neural networks, and leverages the **Leaky Integrate-and-Fire (LIF)** neuron model for simulation.
 
 ### Features
